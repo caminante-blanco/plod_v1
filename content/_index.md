@@ -4,24 +4,13 @@ menu = "main"
 weight = 1
 +++
 
-# A match made in heaven
+# My personal phylactery
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+I have tried and failed to create a personal blog, many, many times (just check my GitHub profile for `FirstTry`, `FirstTry2`, `SecondTry`, etc.). I think the source of all my woes is getting stuck doing all the setup work, trying to make something optimal, and never actually getting to the fun. That's why I'm ripping the bandaid off, and just putting something out there. Maybe I'll kill this site in favor of something else in the future, but for now, I'm here to stay. 
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
-
-[Go to the original bear blog](https://bearblog.dev/).
+The theme for this site was created by [Jan Raasch](https://www.janraasch.com), and was based on the wonderful blogging platform [BearBlog](https://bearblog.dev/), founded by Herman Martinus. I'm thankful for both their hard work, I've always appreciated that OpenSource is founded on the kindness of strangers.
 
 ---
 
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
+If you're visiting this site, you're most likely either a bot, a family member, or I have done something to become suddenly famous (or infamous). In any case, you'll probably benefit from learning more about [me]({{< ref "about.md"}}).
 
-**Use this theme, and find out!**
-
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
-
----
-
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
-
-Each page is ~5kb, and you can **host your blog yourself**.
