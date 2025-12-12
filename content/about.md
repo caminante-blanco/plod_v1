@@ -1,6 +1,6 @@
 +++
-title: "About Me"
-menu: "main"
-weight: 10
+title = "About Me"
+menu = "main"
+weight = 10
 +++
 Hi!
