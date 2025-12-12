@@ -12,5 +12,5 @@ The theme for this site was created by [Jan Raasch](https://www.janraasch.com), 
 
 ---
 
-If you're visiting this site, you're most likely either a bot, a family member, or I have done something to become suddenly famous (or infamous). In any case, you'll probably benefit from learning more about [me]({{< ref "about.md"}}).
+If you're visiting this site, you're most likely either a bot, a family member, or I have done something to become suddenly famous (or infamous). In any case, you'll probably benefit from learning more about [me]({{< ref "about.md" >}}).
 
