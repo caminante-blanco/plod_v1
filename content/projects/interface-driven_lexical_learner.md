@@ -1,6 +1,5 @@
 +++
 date = '2025-12-27T20:32:14-08:00'
-draft = true
 title = 'Interface-Driven Lexical Learner (Draft)'
 tags = ['linguistics', 'drafts'] 
 +++
