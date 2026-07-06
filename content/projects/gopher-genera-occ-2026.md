@@ -6,11 +6,11 @@ date = "2026-07-06T11:55:00.000-07:00"
 
 ## Day 1
 
-This was unfortunately quite boring. I was running errands most of this Sunday, and didn't have any time to sit down with my computer. However, through the power of *generative AI* I was able to at least learn a bit more about how Symbolics managed its software, and how Lisp works. Remember, I've never written anything in Lisp before, so this is a war on two fronts. The devil is in the details, and I'm sure most of the heartache is yet to come. 
+This was unfortunately quite boring. I was running errands most of this Sunday, and didn't have any time to sit down with my computer. However, through the power of *generative AI* I was able to at least learn a bit more about how Symbolics managed its software, and how Lisp works. I have to drive 40 minutes to get anywhere, so LLMs and STT have really changed how I learn while busy. Remember, I've never written anything in Lisp before, so this is a war on two fronts. The devil is in the details, and I'm sure most of the heartache is yet to come. 
 
 ## Day 0
 
-I came across the [Old Computer Challenge](http://occ.sdf.org/#2026) while browsing [HackerNews](https://news.ycombinator.com/item?id=48702320) (as I do far too frequently) and it really piqued my interest. I unfortunately tend to be a very plan-heavy, implementation-light kind of person, and while it means my mind is constantly churning through new ideas, my keyboard stays cold, and my gits stay uncommitted. I decided that this would be my chance to finally get something out of my head and into the world by hijacking the power of social pressure.
+I came across the [Old Computer Challenge](http://occ.sdf.org/#2026) while browsing [HackerNews](https://news.ycombinator.com/item?id=48702320) (as I do far too frequently) and it really piqued my interest. I unfortunately tend to be a very plan-heavy, implementation-light kind of person. While it means my mind is constantly churning through new ideas, my keyboard stays cold, and my gits stay uncommitted. I decided that this would be my chance to finally get something out of my head and into the world by hijacking the power of social pressure.
 
 ### Getting into Lisp
 On the top of my stack of machinations was Lisp. I had the pleasure of reading Mark Tarver's excellent essay [The bipolar Lisp programmer](https://marktarver.com/bipolar.html). I really connected with it, and Lisp approached language design in a way that felt *motivated*. Homoiconicity was especially alluring (I studied theoretical linguistics at the UofA for my BA, so parsers, ASTs, and the like are my first love). 
